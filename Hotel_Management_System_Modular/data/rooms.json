@@ -1,0 +1,20 @@
+[
+    {
+        "room_id": "101",
+        "room_type": "Single",
+        "price": 1500.0,
+        "available": true
+    },
+    {
+        "room_id": "102",
+        "room_type": "Double",
+        "price": 2500.0,
+        "available": true
+    },
+    {
+        "room_id": "103",
+        "room_type": "Deluxe",
+        "price": 3500.0,
+        "available": true
+    }
+]
